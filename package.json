@@ -1,0 +1,15 @@
+{
+  "name": "mint-nft-polygon",
+  "version": "1.0.0",
+  "description": "An application to mint a NFT stored on IPFS storage, on Polygon chain. It's tested on Mumbai Polygon (MATIC tokens). QuickNode platform's endpoints are utilized for faster response times.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "5.4"
+  }
+}
